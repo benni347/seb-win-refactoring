@@ -1,5 +1,4 @@
 version: '3.8.0.{build}'
-image: Windows
 configuration: Release
 platform:
   - x64
